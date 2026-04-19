@@ -7,6 +7,7 @@ This project focuses on predicting the driving range of electric vehicles (EVs) 
 Current Status: This project is under active research and development and has not yet been deployed
 
 Objective
+
 1.Develop regression models to estimate EV driving range with improved accuracy
 2.Compare the performance of multiple machine learning algorithms
 3.Identify key factors influencing EV range
