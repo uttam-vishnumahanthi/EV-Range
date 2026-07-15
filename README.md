@@ -1,4 +1,4 @@
-# Electric Vehicle Range Estimation Using Machine Learning
+# Electric Vehicle Range Estimation 
 
 ## Overview
 
